@@ -47,3 +47,7 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 <img src="https://github-readme-stats.vercel.app/api?username=Besso2003&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Besso2003&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Besso2003&color=blueviolet&style=flat" alt="Profile views" />
+</p>
